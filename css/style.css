@@ -1,5 +1,6 @@
-p{
-    color: #A00BDE
+    p{
+        color: #A00BDE
+        
     }
     
     #maisimportante {
@@ -8,4 +9,19 @@ p{
     
     h2{
     color: #d03429
+    }
+
+    Body{
+        margin: 50px;
+        padding: 10px;
+        background-color: aqua;
+    }
+
+    h1{
+        font-size: 80px;
+        border: 1px solid rgb(7, 155, 22);
+        padding: 50px;
+        text-decoration: underline rgba(227, 169, 21, 0.908) ;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
     }
